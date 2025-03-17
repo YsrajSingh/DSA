@@ -1,7 +1,7 @@
 class RandomizedSet(object):
 
     def __init__(self):
-        self.obj = []
+        self.obj = set()
 
     def insert(self, val):
         """
@@ -10,7 +10,7 @@ class RandomizedSet(object):
         """
         if val in self.obj:
             return False
-        self.obj.append(val)
+        self.obj.add(val)
         return True
         
 
@@ -29,4 +29,4 @@ class RandomizedSet(object):
         """
         :rtype: int
         """
-        return random.choice(self.obj)
+        return random.choice(list(self.obj))
