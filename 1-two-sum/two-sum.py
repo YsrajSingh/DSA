@@ -5,9 +5,11 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        seen = {}
-        for i, num in enumerate(nums):
+        map = {}
+        
+        for index, num in enumerate(nums):
             diff = target - num
-            if diff in seen:
-                return [seen[diff], i]
-            seen[num] = i
+            if diff in map:
+                return [map[diff], index]
+            map[num] = index
+    
