@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/YsrajSingh/DSA/tree/master/0011-container-with-most-water) |
 | [0392-is-subsequence](https://github.com/YsrajSingh/DSA/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/YsrajSingh/DSA/tree/master/0680-valid-palindrome-ii) |
 ## String
@@ -14,9 +15,14 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/YsrajSingh/DSA/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/YsrajSingh/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/YsrajSingh/DSA/tree/master/0392-is-subsequence) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/YsrajSingh/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
