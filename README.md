@@ -1,4 +1,3 @@
-# Data Structures and Algorithms
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Two Pointers
